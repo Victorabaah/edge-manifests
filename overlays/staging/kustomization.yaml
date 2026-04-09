@@ -16,4 +16,4 @@ patchesStrategicMerge:
 images:
   - name: ghcr.io/victorabaah/edge-app:v1
     # CI/CD updates this tag in GitOps promotion
-    newTag: 531ceb31091a3c6bb8a6229657556fb29d887cf7
+    newTag: 45bf1875ad04120e6111c6c0b5c8ab6698f7d101
