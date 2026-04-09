@@ -14,4 +14,4 @@ patchesStrategicMerge:
 images:
   - name: ghcr.io/victorabaah/edge-app:v1
     # CI/CD updates this tag for approved production promotion
-    newTag: latest
+    newTag: v1
