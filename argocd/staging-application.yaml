@@ -11,7 +11,7 @@ spec:
 
   source:
     # Edit to your actual GitOps repo
-    repoURL: https://github.com/Victorabaah/iiot_project.git
+    repoURL: https://github.com/Victorabaah/edge-manifests.git
     targetRevision: main
     path: overlays/staging
 
