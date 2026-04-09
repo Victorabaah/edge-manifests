@@ -8,7 +8,7 @@ spec:
 
   # Edit if your GitOps repo URL differs
   sourceRepos:
-    - https://github.com/Victorabaah/iiot_project.git
+    - https://github.com/Victorabaah/edge-manifests.git
 
   destinations:
     - namespace: edge-system
